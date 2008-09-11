@@ -1,5 +1,5 @@
 === Social Privacy ===
-Contributors: Multinc
+Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: social, privacy, private, protect, restrict, restriction, permit, permission, permissions, allow, access, categories, post, feed, url, email, expiration, rights
 Requires at least: 2.5
