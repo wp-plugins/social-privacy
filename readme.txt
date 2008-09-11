@@ -85,7 +85,7 @@ Also, the links contained in each feed item and each email notification that poi
 
 ## [Access Expiration](http://wordpress.org/extend/plugins/access-expiration/) ##
 
-The Access Expiration plugin is another new plugin from Multinc that adds another level of access control for particularly sensitive posts.  For each post or category, you can limit the number of views and the amount of time that an item remains viewable by each user after he or she first accesses the post.  Unlike other plugins that expire posts for all users at the same time, this plugin keeps track of every user’s viewing history so that each gets equal access time.  This plugin is useful for limiting the chance that any authorized user accidentally or deliberately forwards a private post to an unauthorized user.
+The Access Expiration plugin is another new plugin from Multinc that adds another level of access control for particularly sensitive posts.  For each post or category, you can limit the number of views and the amount of time that an item remains viewable by each user after he or she first accesses the post.  Unlike other plugins that expire posts for all users at the same time, this plugin keeps track of every user's viewing history so that each gets equal access time.  This plugin is useful for limiting the chance that any authorized user accidentally or deliberately forwards a private post to an unauthorized user.
 
 Because authorized users may have legitimate reasons for accessing a post beyond the allotted time, the plugin gives users the simple option of requesting an extension of their viewing privileges.
 
