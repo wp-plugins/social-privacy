@@ -20,7 +20,7 @@ authentication.  This allows sensitive posts to remain on the website rather tha
 
 == Installation ==
 
-1. Upload `social-subcribe2` to the `/wp-content/plugins/` directory
+1. Upload `unique-url-authentication` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. For per-category setting, click the "Setting" admin menu link, and select 'Unique URL Authentication'.
 

@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Subscribe2 for Social Access Control
+Plugin Name: Subscribe2 For Social Privacy
 Plugin URI: http://multinc.com
 Description: The 3rd-party Subscribe2 plugin allows registered and unregistered users to be notified via email whenever a new post is published.  It allows users to subscribe to either full posts or excerpts of posts, to choose whether the format of full posts should be HTML or plain-text, and to select which categories they are interested in. Subscribe2 was enhanced to work with Social Access Control so that users receive emails only for posts or categories of posts that they are permitted to view.  Also, the administrator can choose additional email content levels depending on whether the post is public or restricted: full post, excerpt, title only, no email.
 Version: 1.0
@@ -40,7 +40,7 @@ define('S2PATH', trailingslashit(dirname(__FILE__)));
 
 // use Owen's excellent ButtonSnap library
 if (!function_exists(buttonsnap_textbutton)) {
-	require(ABSPATH . 'wp-content/plugins/social-subscribe2/include/buttonsnap.php');
+	require(S2PATH . 'include/buttonsnap.php');
 }
 
 $mysubscribe2 = new s2class;
@@ -2469,7 +2469,7 @@ class s2class {
 			} else {
 				//use buttonsnap to add button is not using RTE
 				buttonsnap_separator();
-				buttonsnap_jsbutton(get_option('siteurl') . '/wp-content/plugins/social-subscribe2/include/s2_button.png', __('Subscribe2', 'subscribe2'), 's2_insert_token();');
+				buttonsnap_jsbutton(get_option('siteurl') . '/wp-content/plugins/' . dirname( plugin_basename( __FILE__ ) ) . '/include/s2_button.png', __('Subscribe2', 'subscribe2'), 's2_insert_token();');
 			}
 	}
 
@@ -2477,7 +2477,7 @@ class s2class {
 	Add buttons for WordPress 2.5+ using built in hooks
 	*/
 	function mce3_plugin($arr) {
-		$path = get_option('siteurl') . '/wp-content/plugins/social-subscribe2/tinymce3/editor_plugin.js';
+		$path = get_option('siteurl') . '/wp-content/plugins/' . dirname( plugin_basename( __FILE__ ) ). '/tinymce3/editor_plugin.js';
 		$arr['subscribe2'] = $path;
 		return $arr;
 	}
@@ -2500,7 +2500,7 @@ class s2class {
 	}
 
 	function tinymce2_before_init() {
-		$this->fullpath = get_option('siteurl') . '/wp-content/plugins/social-subscribe2/tinymce/';
+		$this->fullpath = get_option('siteurl') . '/wp-content/plugins/' . dirname( plugin_basename( __FILE__ ) ) . '/tinymce/';
 		echo "tinyMCE.loadPlugin('subscribe2quicktags', '" . $this->fullpath . "');\n"; 
 	}
 

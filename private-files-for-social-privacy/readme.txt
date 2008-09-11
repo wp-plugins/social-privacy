@@ -1,4 +1,4 @@
-=== Social Private Files ===
+=== Private Files For Social Privacy ===
 Contributors: Justin
 Donate link: http://multinc.com/wp/donate
 Tags: access, social, privilege, protect
@@ -18,7 +18,7 @@ Private Files was enhanced to respect the access permissions of the Social Acces
 
 == Installation ==
 
-1. Upload `social-access-control` to the `/wp-content/plugins/` directory
+1. Upload `private-files-for-social-privacy` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Plugin setting is under 'Manage->Social Private Files' page
 7. For other settings, please refer to the original readme file (readme-old.txt)

@@ -21,7 +21,7 @@ public or restricted: full post, excerpt, title only, no email.
 
 == Installation ==
 
-1. Upload `social-subcribe2` to the `/wp-content/plugins/` directory
+1. Upload `subcribe2-for-social-privacy` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click the "Setting" admin menu link, and select "Social Subscribe2".
 
