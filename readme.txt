@@ -91,11 +91,11 @@ Because authorized users may have legitimate reasons for accessing a post beyond
 
 == Installation ==
 
-The plugins can be installed one at a time by visiting each plugin's web page on wordpress.org, or by downloading the entire set here.  We recommend you install the entire set.
+There are two ways to install the plugins that make up Social Privacy.  The plugins can be installed as one set from this page, or one at a time by visiting each plugin's web page on wordpress.org (the links are on the [Description](http://wordpress.org/extend/plugins/social-privacy/) page).  We recommend you install the entire set, as described here:
 
 1. Make sure you deactivate any existing installation of the following plugins: [Category Access](http://www.coppit.org/blog/archives/173), [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/), [Private Files](http://wordpress.org/extend/plugins/private-files/).
-1. Extract the Social Privacy zip file containing all the plugins in the set.
-1. Copy all 5 of the plugins directories into the `/wp-content/plugins/` directory of your WordPress installation.
+1. [Download](http://downloads.wordpress.org/plugin/social-privacy.zip) the Social Privacy zip file containing all the plugins in the set.
+1. Extract the zip file and copy all 5 of the plugins directories into the `/wp-content/plugins/` directory of your WordPress installation.
 1. Activate each plugin through the 'Plugins' menu in WordPress.  (You can skip the "Subscribe 2 Debug" and "Subscribe 2 Uninstaller" plugins.)
 1. Configure each plugin through the 'Settings' menu in WordPress.
 
