@@ -57,7 +57,9 @@ How can one minimize the chance that unauthorized users be able to read protecte
 * the number of times that any specific user can view a post or certain categories of posts can be limited.  Setting this to "1 maximum view" while enabling the automatic user recognition feature can provide a particularly good balance of security vs. convenience
 * similarly to the above, the amount of time that any specific user can view a post or certain categories of posts again can also be limited
 
-= Individual plugins in the set =
+= Sub-plugins in the Set =
+
+The following 5 plugins have been created or modified to work in unison to give you complete control over access to the posts in your WordPress installation.  If installed individually, some of these plugins provide significant functionality on their own, but their best features are enabled when installed as one set.
 
 ## [Social Access Control](http://wordpress.org/extend/plugins/social-access-control/) (based on [Category Access](http://www.coppit.org/blog/archives/173)) ##
 
