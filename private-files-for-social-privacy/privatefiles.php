@@ -27,9 +27,7 @@ add_filter('404_template', 'private_filter');
 //private_unprotect_uploads();
 
 function private_menu() {
-	add_management_page(__('Social Private Files'),
-			__('Social Private Files'),
-			10, basename(__FILE__), 'private_form');		
+	add_options_page(__('Social Private Files'), __('Social Private Files'), 9, __FILE__, 'private_form');
 }
 
 function private_all($level) {
