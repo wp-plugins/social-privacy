@@ -1,7 +1,7 @@
 === Social Privacy ===
 Contributors: Multinc
 Donate link: http://multinc.com/wp/donate
-Tags: social, privacy, private, categories, post, feed, url, email
+Tags: social, privacy, private, protect, restrict, restriction, permit, permission, permissions, allow, access, categories, post, feed, url, email, expiration, rights
 Requires at least: 2.5
 Tested up to: 2.6
 Stable tag: 1.1
@@ -12,7 +12,7 @@ Some social networks like Facebook support user blogs with extensive privacy con
 
 == Description ==
 
-# Summary of Features #
+= Summary of Features =
 
 Which posts can be restricted?
 
@@ -47,7 +47,7 @@ Security usually increases inconvenience for users.  What convenience features a
 * automatic user recognition and authentication when the user clicks in the syndicated feeds to go the blog post on the website
 * the same for emails
 
-# Advanced Features #
+= Advanced Features =
 
 How can one minimize the chance that unauthorized users be able to read protected posts forwarded to them by authorized users?
 
@@ -57,15 +57,15 @@ How can one minimize the chance that unauthorized users be able to read protecte
 * the number of times that any specific user can view a post or certain categories of posts can be limited.  Setting this to "1 maximum view" while enabling the automatic user recognition feature can provide a particularly good balance of security vs. convenience
 * similarly to the above, the amount of time that any specific user can view a post or certain categories of posts again can also be limited
 
-# Individual plugins in the set #
+= Individual plugins in the set =
 
-## [Social Access Control](http://wordpress.org/extend/plugins/social-access-control/) (based on [Category Access](http://www.coppit.org/blog/archives/173) ##
+## [Social Access Control](http://wordpress.org/extend/plugins/social-access-control/) (based on [Category Access](http://www.coppit.org/blog/archives/173)) ##
 
 The 3rd-party Category Access plugin provides the core functionality for restricting the access permissions of posts to certain registered users.  For each user you can list the categories that he or she should have access to.
 
 New features have been added to our version of this plugin to allow access to be restricted to specific users on a per-post basis, regardless of the categories. The plugin has also been enhanced to work well with the other plugins in Social Privacy. For this reason, our release of this open-source plugin has been renamed Social Access Control.
 
-## [Subscribe2 for Social Privacy](http://wordpress.org/extend/plugins/subscribe2-for-social-privacy/) (based on [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/) ##
+## [Subscribe2 for Social Privacy](http://wordpress.org/extend/plugins/subscribe2-for-social-privacy/) (based on [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/)) ##
 
 The 3rd-party Subscribe2 plugin allows registered and unregistered users to be notified via email whenever a new post is published.  It allows users to subscribe to either full posts or excerpts of posts, to choose whether the format of full posts should be HTML or plain-text, and to select which categories they are interested in.
 
@@ -101,9 +101,9 @@ The plugins can be installed one at a time by visiting each plugin's web page on
 
 == Frequently Asked Questions ==
 
-= What happens to the settings and data of the 3rd-party base plugins? =
+= What happens to the settings and data of the 3rd-party base plugins if they are replaced? =
 
-The settings and data will be used and taken over by the Social Privacy version of the base plugins, [Category Access](http://www.coppit.org/blog/archives/173), [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/), [Private Files](http://wordpress.org/extend/plugins/private-files/).  Although not yet tested, the transition should be seamless
+You may have previously used any of the plugins: [Category Access](http://www.coppit.org/blog/archives/173), [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/), or [Private Files](http://wordpress.org/extend/plugins/private-files/).  If you only deactivate them but do not delete their settings or data from your WordPress database, Social Privacy will use and take over these settings and data.  Although not yet tested, the transition should be seamless
 
 == Screenshots ==
 
