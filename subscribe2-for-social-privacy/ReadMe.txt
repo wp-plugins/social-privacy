@@ -6,8 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.6
 Stable tag: 1.1
 
-Tightens the security of private posts by preventing clever users from obtaining unauthorized 
-access to contained images and other attachments.
+Allows registered and unregistered users to be notified via email whenever a new post is published. Enhanced to work with Social Access Control
 
 == Description ==
 
