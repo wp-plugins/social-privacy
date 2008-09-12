@@ -4,7 +4,7 @@
 Plugin Name: Access Expiration
 Plugin URI: http://multinc.com
 Description: The Access Expiration plugin is another brand-new plugin that adds another level of access control to posts
-Version: 1.0
+Version: 1.1
 Author: Justin at Multinc
 Author URI: http://multinc.com
 */

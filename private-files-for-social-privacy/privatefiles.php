@@ -4,7 +4,7 @@ Plugin Name: Private Files for Social Privacy
 Plugin URI: http://multinc.com
 Description: The 3rd-party Private Files plugin tightens the security of private posts by preventing clever users from obtaining unauthorized access to contained images and other attachments. Private Files was enhanced to respect the access permissions of the Social Access Control plugin.
 Author: Justin at Multinc
-Version: 1.0
+Version: 1.1
 Author URI: http://multinc.com
 */
 

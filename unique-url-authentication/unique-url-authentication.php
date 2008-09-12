@@ -3,7 +3,7 @@
 Plugin Name: Unique URL Authentication
 Plugin URI: http://multinc.com
 Description: The Unique URL Authentication plugin is a new plugin that works with the Social Access Control plugin to add access control to syndicated feeds. Since popular web feed readers such as Google Reader do not support private feeds that require a login and a password, a common solution is to give each registered user their own unique and unguessable feed URL.  With this plugin installed, each user will have his or her own feed and will receive a listing of only the feed items that he or she has access to. Also, the links contained in each feed item and each email notification that point back to the blog website can also benefit from password-less authentication.  This allows sensitive posts to remain on the website rather than sent out, while giving authorized users single-click convenience.
-Version: 1.0
+Version: 1.1
 Author: Justin at Multinc
 Author URI: http://multinc.com
 */

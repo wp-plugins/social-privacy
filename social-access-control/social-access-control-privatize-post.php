@@ -5,7 +5,7 @@ session_start();
 Plugin Name: Social Access Control Privatize/Unprivatized Posts
 Plugin URI: http://multinc.com
 Description: This is an advanced feature of Social Access Control to privatize all protected posts.
-Version: 1.0
+Version: 1.1
 Author: Justin at Multinc
 Author URI: http://multinc.com
 */
