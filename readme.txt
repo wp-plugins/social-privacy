@@ -109,6 +109,8 @@ You may have previously used any of the plugins: [Category Access](http://www.co
 
 == Screenshots ==
 
-1. The category expiration setting page
-2. The individual post expiration setting page
-3. The access renewed request page
+1. Screenshot of Social Access Control
+2. Screenshot of Access Expiration
+3. Screenshot of Social Subscribe2
+4. Screenshot of Social Private Files
+5. Screenshot of Social Unique URL Authentication
