@@ -8,7 +8,7 @@ Stable tag: 1.1
 
 Social Privacy is a set of open-source plugins for WordPress that restrict the read access of posts or categories to only specified registered users. Install these plugins and you can start blogging for friends and family about topics that are too sensitive to publish publicly.
 
-Some social networks like Facebook support user blogs with extensive privacy control.  Social Privacy grants bloggers an even greater level of privacy control, outside of these walled gardens -- right here in the blogosphere.
+Some social networks like Facebook support user blogs with extensive privacy control.  Social Privacy grants bloggers an even greater level of privacy control, outside of these walled gardens -- right here in the blogosphere. 
 
 == Description ==
 
