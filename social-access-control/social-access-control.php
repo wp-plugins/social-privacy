@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Social Access Control
-Plugin URI: http://multinc.com
-Description: The 3rd-party Category Access plugin provides the core functionality for restricting the access permissions of posts to certain registered users.  Normally, categories in WordPress represent the topics of posts.  With Category Access, categories also represent different lists of users that are granted access to posts. New features have been added to our version of this plugin to allow access to be restricted to specific users on a per-post basis, regardless of the categories. The plugin has also been enhanced to work well with the other plugins in Social Privacy. For this reason, our release of this open-source plugin has been renamed Social Access Control.
+Plugin URI: http://multinc.com/wp/social-privacy/
+Description:  Part of the Social Privacy set of plugins.  Based on the 3rd-party Category Access plugin, this provides the core functionality for restricting the access permissions of posts.  This plugin gives you the ability to permit only specific registered users to read certain posts or certain categories of posts.
 Version: 1.1
 Author: Justin at Multinc
 Author URI: http://multinc.com
 */
 
 /*
-This project is developed based on the Category Access project version 0.8.2
+This project is based on the Category Access project version 0.8.2
 */
 
 session_start();

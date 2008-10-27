@@ -1,9 +1,9 @@
 === Private Files For Social Privacy ===
-Contributors: Justin
+Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: access, social, privilege, protect
 Requires at least: 2.0.2
-Tested up to: 2.6
+Tested up to: 2.6.3
 Stable tag: 1.1
 
 Tightens the security of private posts by preventing clever users from obtaining unauthorized 

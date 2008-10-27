@@ -3,7 +3,7 @@ Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate/
 Tags: social privacy, social, privacy, private, protect, restrict, restriction, permit, permission, permissions, rights, allow, access, categories, post, url, expiration
 Requires at least: 2.5
-Tested up to: 2.6
+Tested up to: 2.6.3
 Stable tag: 1.1
 
 For each post or category, you can limit the number of views and the amount of time that an item remains 
@@ -11,7 +11,7 @@ viewable by each user after he or she first accesses the post.
 
 == Description ==
 
-The Access Expiration plugin is a plugin from Multinc that adds a level of access control for particularly sensitive posts.  For each post or category, you can limit the number of views and the amount of time that an item remains viewable by each user after he or she first accesses the post.  Unlike other plugins that expire posts for all users at the same time, this plugin keeps track of every user’s viewing history so that each gets equal access time.
+The Access Expiration plugin is a plugin from Multinc that adds a level of access control for particularly sensitive posts.  For each post or category, you can limit the number of views and the amount of time that an item remains viewable by each user after he or she first accesses the post.  Unlike other plugins that expire posts for all users at the same time, this plugin keeps track of every user's viewing history so that each gets equal access time.
 
 You can also impose separate limits for unregistered users, who are all considered as one single user.
 

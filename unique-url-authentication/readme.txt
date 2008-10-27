@@ -1,9 +1,9 @@
 === Unique URL Authentication ===
-Contributors: Justin
+Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: access, social, privilege, protect, authenticate, login
 Requires at least: 2.0.2
-Tested up to: 2.6
+Tested up to: 2.6.3
 Stable tag: 1.1
 
 Give each registered user their own unique and unguessable feed URL

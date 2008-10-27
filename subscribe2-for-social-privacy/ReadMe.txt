@@ -1,9 +1,9 @@
 === Social Subscribe2 ===
-Contributors: Justin
+Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: access, social, privilege, protect
 Requires at least: 2.0.2
-Tested up to: 2.6
+Tested up to: 2.6.3
 Stable tag: 1.1
 
 Allows registered and unregistered users to be notified via email whenever a new post is published. Enhanced to work with Social Access Control

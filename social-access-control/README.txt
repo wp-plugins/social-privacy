@@ -1,14 +1,21 @@
 === Social Access Control ===
-Contributors: Justin
+Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: access, social, privilege, protect
+Tags: social privacy, social, privacy, private, protect, restrict, restriction, permit, permission, permissions, rights, allow, access, categories, post, url
 Requires at least: 2.0.2
-Tested up to: 2.6
+Tested up to: 2.6.3
 Stable tag: 1.1
 
 Per-post and per-category access control
 
 == Description ==
+
+Based on the 3rd-party [Category Access](http://www.coppit.org/blog/archives/173), this plugin provides the core functionality for restricting the access permissions of posts.  This gives you the ability to permit only specific registered users to read certain posts or certain categories of posts.
+
+This plugin is part of the [Social Privacy](http://wordpress.org/extend/plugins/social-privacy/) set of plugins and it's recommended that you install the entire set at one time to get complete control over access to your posts on your blog.
+
+= More details =
 
 The 3rd-party Category Access plugin provides the core functionality for restricting the access permissions 
 of posts to certain registered users.  For each user you can list the categories that he or she should have 
