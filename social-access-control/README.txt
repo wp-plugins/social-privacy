@@ -29,24 +29,30 @@ plugins in Social Privacy. For this reason, our release of this open-source plug
 
 1. Upload `social-access-control` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. For per-category access control and general settings, from the admin 'Settings' page select 'Social Access Control'
-4. For per-post access control setting, go to the 'Social Access Control' section at the New/Manage Post page
-5. To set category access on a user-by-user basis, edit the user's
-   profile.
-6. To privatize/unprivatize posts, activate 'Social Access Control Privatize/Unprivatized Posts' from the
+
+= Configuration =
+
+* For general settings and to control per-category access, go to the Admin 'Settings' page and select 'Social Access Control'.
+* To control per-post access, go to the 'Social Access Control' section on the Write/Manage Post page.
+* To control per-category a user-by-user basis, edit the user's profile.
+* For other settings and issues, refer to the original Category Access readme file (`readme-old.txt`)
+
+= Uninstallation =
+
+If you decide to deactivate this plugin, you may not want all your restricted posts to suddenly become visible to everyone.  If that's the case, you can convert all the restricted posts to the standard WordPress "private" mode before deactivating the plugin.
+
+* To privatize/unprivatize posts, go to the 'Social Access Control Privatize/Unprivatized Posts' from the
 Plugin page and select 'Privatize Post' from the 'Manage' tab
-7. For other settings and issues, please refer to the original readme file (readme-old.txt)
-
-For RSS users, an optional 'Unique URL authentication' plugin can be used to automatically get authorized via personalized feed URLs
-
-'Unique URL authentication' plugin can be downloaded from: http://multinc.com/wp/social-privacy/
 
 == Frequently Asked Questions ==
 
+= What happens if I decide to deactivate or uninstall this plugin? =
+
+Your protected posts can remain hidden from public view.  See the [Installation instructions](http://wordpress.org/extend/plugins/social-access-control/installation/)
 
 == Screenshots ==
 
-1. The Sategory Access Control setting page
-2. The Individual Access Control page
-3. The User-by-user basis access control page
-4. The privatize/unprivatize post page
+1. Controlling per-category access
+2. Controlling per-post access
+3. Controlling per-category access on a user-by-user basis
+4. To privatize posts before deactivating this plugin (or to unprivatize posts after re-activating this plugin)

@@ -67,9 +67,7 @@ The following 5 plugins have been created or modified to work in unison to give 
 
 ## [Social Access Control](http://wordpress.org/extend/plugins/social-access-control/) (based on [Category Access](http://www.coppit.org/blog/archives/173)) ##
 
-The 3rd-party Category Access plugin provides the core functionality for restricting the access permissions of posts to certain registered users.  For each user you can list the categories that he or she should have access to.
-
-New features have been added to our version of this plugin to allow access to be restricted to specific users on a per-post basis, regardless of the categories. The plugin has also been enhanced to work well with the other plugins in Social Privacy. For this reason, our release of this open-source plugin has been renamed Social Access Control.
+Based on the 3rd-party Category Access, this plugin provides the core functionality for restricting the access permissions of posts.  This gives you the ability to permit only specific registered users to read certain posts or certain categories of posts.
 
 ## [Subscribe2 for Social Privacy](http://wordpress.org/extend/plugins/subscribe2-for-social-privacy/) (based on [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/)) ##
 
