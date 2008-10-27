@@ -97,13 +97,23 @@ Because authorized users may have legitimate reasons for accessing a post beyond
 
 == Installation ==
 
-There are two ways to install the plugins that make up Social Privacy.  The plugins can be installed as one set from this page, or one at a time by visiting each plugin's web page on wordpress.org (the links are on the [Description](http://wordpress.org/extend/plugins/social-privacy/) page).  We recommend you install the entire set, as described here:
+There are two ways to install the plugins that make up Social Privacy.  The plugins can be installed as one set from this page, or one at a time by visiting each plugin's web page on wordpress.org (the links are on the [Description](http://wordpress.org/extend/plugins/social-privacy/) page).
+
+We recommend you install the entire set, as described here:
 
 1. Make sure you deactivate any existing installation of the following plugins: [Category Access](http://www.coppit.org/blog/archives/173), [Subscribe2](http://wordpress.org/extend/plugins/subscribe2/), [Private Files](http://wordpress.org/extend/plugins/private-files/).
 1. [Download](http://downloads.wordpress.org/plugin/social-privacy.zip) the Social Privacy zip file containing all the plugins in the set.
 1. Extract the zip file and copy all 5 of the plugins sub-directories individually into the `/wp-content/plugins/` directory of your WordPress installation.  Don't just copy the parent directory `social-privacy`; it must be the 5 sub-directorires.
 1. Activate each plugin through the 'Plugins' menu in WordPress.
-1. Configure each plugin through the 'Settings' menu in WordPress.
+
+= Configuration =
+
+Configure each plugin through the 'Settings' menu in WordPress:
+* [Social Access Control](http://wordpress.org/extend/plugins/social-access-control/installation/)
+* [Subscribe2 for Social Privacy](http://wordpress.org/extend/plugins/subscribe2-for-social-privacy/installation/)
+* [Private Files for Social Privacy](http://wordpress.org/extend/plugins/private-files-for-social-privacy/installation/)
+* [Unique URL Authentication](http://wordpress.org/extend/plugins/unique-url-authentication/)
+* [Access Expiration](http://wordpress.org/extend/plugins/access-expiration/installation/)
 
 == Frequently Asked Questions ==
 
